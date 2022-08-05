@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\file\\stl\\datastructure\\cpp_stl\\iterator.hpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "d:\\file\\stl\\datastructure\\cpp_stl\\vector.h",
+            "d:\\file\\stl\\datastructure\\cpp_stl\\iterator.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
